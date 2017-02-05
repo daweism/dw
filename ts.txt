@@ -1,3 +1,5 @@
 this first word
 this second word
 this third word
+
+git stage
